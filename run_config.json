@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "batch_size": 32,
+  "max_epochs": 50,
+  "patience": 5,
+  "weight_decay": 0.01,
+  "lr_scratch": 0.001,
+  "lr_head": 0.001,
+  "lr_block": 0.0001,
+  "b4_base": "B3",
+  "classes": [
+    "Abyssinian",
+    "Bengal",
+    "Birman",
+    "Persian",
+    "Siamese",
+    "Beagle",
+    "Pug",
+    "Samoyed",
+    "Shiba Inu",
+    "Chihuahua"
+  ],
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "torchvision": "0.26.0+cu130",
+  "python": "3.13.15"
+}

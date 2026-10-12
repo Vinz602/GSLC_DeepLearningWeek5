@@ -1,0 +1,12 @@
+test_idx,path,ground_truth,predicted,confidence,second_choice,hipotesis_penyebab
+229,data/oxford-iiit-pet/images/Bengal_134.jpg,Bengal,Abyssinian,0.9996650218963623,Bengal,
+231,data/oxford-iiit-pet/images/Siamese_240.jpg,Siamese,Birman,0.9975312352180481,Siamese,
+232,data/oxford-iiit-pet/images/Siamese_98.jpg,Siamese,Birman,0.7985625863075256,Siamese,
+175,data/oxford-iiit-pet/images/Siamese_100.jpg,Siamese,Birman,0.7558428049087524,Siamese,
+269,data/oxford-iiit-pet/images/Siamese_81.jpg,Siamese,Birman,0.7218002676963806,Siamese,
+69,data/oxford-iiit-pet/images/Abyssinian_101.jpg,Abyssinian,Bengal,0.7071021199226379,Abyssinian,
+110,data/oxford-iiit-pet/images/shiba_inu_156.jpg,Shiba Inu,Beagle,0.6769933104515076,Samoyed,
+239,data/oxford-iiit-pet/images/Birman_91.jpg,Birman,Siamese,0.6637258529663086,Birman,
+194,data/oxford-iiit-pet/images/Siamese_56.jpg,Siamese,Birman,0.6090344190597534,Siamese,
+18,data/oxford-iiit-pet/images/Abyssinian_215.jpg,Abyssinian,Bengal,0.5081589818000793,Abyssinian,
+245,data/oxford-iiit-pet/images/Abyssinian_61.jpg,Abyssinian,Bengal,0.4834631681442261,Abyssinian,
